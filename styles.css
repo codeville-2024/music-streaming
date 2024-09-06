@@ -1,0 +1,102 @@
+#body {
+  background-color: #171717;
+}
+
+ul {
+  color: white;
+  list-style-type: none;
+  display: flex;
+  gap: 60px;
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 150px;
+}
+
+#header {
+  display: flex;
+}
+
+#image {
+  width: 155.61px;
+  height: 39.1px;
+}
+
+#comb {
+  align-content: center;
+  width: 100%;
+}
+
+#nr {
+  color: white;
+  font-weight: 600;
+  font-size: 22.89px;
+  margin-left: 10px;
+}
+
+#sm {
+  color: #f3777d;
+  font-weight: 500;
+  font-size: 19px;
+  margin-right: 10px;
+}
+
+#laptop {
+  display: flex;
+  justify-content: space-between;
+}
+
+#pages {
+  display: flex;
+  justify-content: center;
+  column-gap: 40px;
+  margin-bottom: 52px;
+}
+
+#pages-1 {
+  color: white;
+  font-weight: 600;
+}
+
+#pages-2 {
+  color: #afb6b2;
+}
+
+#pages-3 {
+  column-gap: 100px;
+  display: flex;
+  margin-left: 120px;
+  margin-bottom: 38.15px;
+}
+
+#lp {
+  display: flex;
+}
+
+#play {
+  width: 30.52px;
+  height: 30.52px;
+  margin-top: 21px;
+}
+
+#pause {
+  width: 30.52px;
+  height: 30.52px;
+  margin-top: 19px;
+}
+
+.recent {
+  /* column-gap: 20px;
+  row-gap: 16px;
+  color: white;
+  display: flex; */
+  margin-bottom: 18.12px;
+  margin-left: 10px;
+}
+
+#shoe{
+    width: 100%;
+}
+
+#final{
+    background-color: #272727;
+}
